@@ -105,9 +105,8 @@ nav a:hover {
   align-items: center;
   color: var(--main_color);
   text-decoration: none;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   transition: color 0.3s;
-  font-size: 1.4rem;
 }
 
 .contacts a:hover {
